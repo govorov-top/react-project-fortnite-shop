@@ -1,0 +1,16 @@
+.card{
+    background: #000;
+    max-width: 24.5%;
+    border: 2px solid wheat;
+    padding: 10px;
+    display: block;
+    overflow: hidden;
+    img{
+        display: block;
+        margin: 0 auto 1rem;
+        width: 100%;
+    }
+    .card-title{
+        font-size: 25px;
+    }
+}
