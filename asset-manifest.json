@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.14d2433f.css",
-    "main.js": "/static/js/main.47d44b6a.js",
-    "index.html": "/index.html",
-    "main.14d2433f.css.map": "/static/css/main.14d2433f.css.map",
-    "main.47d44b6a.js.map": "/static/js/main.47d44b6a.js.map"
+    "main.css": "/react-shop-MUI-version/static/css/main.14d2433f.css",
+    "main.js": "/react-shop-MUI-version/static/js/main.47d44b6a.js",
+    "index.html": "/react-shop-MUI-version/index.html",
+    "main.14d2433f.css.map": "/react-shop-MUI-version/static/css/main.14d2433f.css.map",
+    "main.47d44b6a.js.map": "/react-shop-MUI-version/static/js/main.47d44b6a.js.map"
   },
   "entrypoints": [
     "static/css/main.14d2433f.css",
